@@ -1,0 +1,43 @@
+{
+  "recentFiles": [
+    {
+      "basename": "empty note",
+      "path": "templates/empty note.md"
+    },
+    {
+      "basename": "Empty Note",
+      "path": "templates/Empty Note.md"
+    },
+    {
+      "basename": "Obsidian Shortcuts",
+      "path": "Obsidian Shortcuts.md"
+    },
+    {
+      "basename": "🏠Obsidian",
+      "path": "🏠Obsidian.md"
+    },
+    {
+      "basename": "Vault Configuration - Obsidian Vault",
+      "path": "Vault Configuration - Obsidian Vault.md"
+    },
+    {
+      "basename": "Vault Configuration - Dev Vault",
+      "path": "Vault Configuration - Dev Vault.md"
+    },
+    {
+      "basename": "Obsidian Plugins",
+      "path": "Obsidian Plugins.md"
+    },
+    {
+      "basename": "Dataview Filters",
+      "path": "Dataview Filters.md"
+    },
+    {
+      "basename": "Writing Style",
+      "path": "Writing Style.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}
