@@ -1,5 +1,4 @@
 {
-  "workspace:new-tab": [],
   "insert-template": [
     {
       "modifiers": [
@@ -8,4 +7,5 @@
       "key": "T"
     }
   ],
+  "workspace:new-tab": []
 }
